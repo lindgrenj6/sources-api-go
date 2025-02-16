@@ -464,8 +464,8 @@ github.com/redhatinsights/app-common-go v1.6.8 h1:hyExMp6WHprlGkHKElQvSFF2ZPX8XT
 github.com/redhatinsights/app-common-go v1.6.8/go.mod h1:KW0BK+bnhp3kXU8BFwebQXqCqjdkcRewZsDlXCSNMyo=
 github.com/redhatinsights/platform-go-middlewares v1.0.0 h1:OxyiYt+VmNo+UucK/ey0b6UDFnpCni6JoGPeisGmmNI=
 github.com/redhatinsights/platform-go-middlewares v1.0.0/go.mod h1:dRH6XOjiZDbw8STvk6NNC7mMwqhTaV7X+1tn1oXOs24=
-github.com/redhatinsights/sources-superkey-worker v0.0.0-20250121222053-7b61791049e7 h1:joLOaVI/Cv3VOB4TZ9nwf0yhtFiqMF+9RmOxpSLHUec=
-github.com/redhatinsights/sources-superkey-worker v0.0.0-20250121222053-7b61791049e7/go.mod h1:0txQiUmx8I62SwKaYoFs0oKWtywlHMEpsPIDyExwr9Y=
+github.com/redhatinsights/sources-superkey-worker v0.0.0-20250206100842-909579b869be h1:hhHBPWC2HQ7SHVx0bhUcUHvVo6v7mTJNTJW5CUgoN6w=
+github.com/redhatinsights/sources-superkey-worker v0.0.0-20250206100842-909579b869be/go.mod h1:/yfJCl4KZCGJ6JO8bdr3jsDRDI4YXf979oQiCFk+b20=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.12.0 h1:exVL4IDcn6na9z1rAb56Vxr+CgyK3nn3O+epU5NdKM8=
 github.com/rogpeppe/go-internal v1.12.0/go.mod h1:E+RYuTGaKKdloAfM02xzb0FW3Paa99yedzYV+kq4uf4=
